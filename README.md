@@ -12,6 +12,7 @@
     <p><ol><i><b>One Piece</b></i></ol></p>
     <p><ol><i><b>A Time Called You</b></i></ol></p>
     <p><ol><i><b>Spy X Family</b></i></ol></p>
+    <p><o1><i><b>Jujustu Kaisen</b></i></o1></p>
     <div>
     <p><img src="one_piece_staffel_2_2026_plde.jpg" alt="bilder" wight="360" height="500"/></p>
     <br>
